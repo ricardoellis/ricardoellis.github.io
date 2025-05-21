@@ -1,5 +1,4 @@
-# html-cv
-Ricardo Ellis - Curriculum Vitae, minimalistic look, recreated using only HTML & CSS.
+#Ricardo Ellis - Curriculum Vitae website from scratch
 
 <p>See Live Version Here - <a href="https://ricardoellis.github.io/">https://ricardoellis.github.io/<a></a> </p>
 

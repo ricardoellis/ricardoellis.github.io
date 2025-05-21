@@ -1,0 +1,45 @@
+/* Typogrpahy */
+
+html {
+    margin: auto;
+    width: 70%;
+    font-size: 20px;
+    font-family: 'Roboto';
+    font-weight: 300;
+}
+
+h1 {
+    font-weight: 400;
+
+}
+
+
+h2 {
+    font-weight: 400;
+
+}
+
+h3 {
+    font-weight: 400;
+
+}
+
+#section-title {
+    font-size: 28px;
+    font-weight: 400;
+}
+
+.section-sub-title {
+    font-size: 20px;
+    font-weight: 400;
+}
+
+footer {
+    font-weight: 450;
+}
+
+/* Images */
+
+.social-icons {
+    width: 32px;
+}

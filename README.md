@@ -1,7 +1,7 @@
 # html-cv
 Ricardo Ellis - Curriculum Vitae, minimalistic look, recreated using only HTML & CSS.
 
-<p>See Live Version Here - <a href="https://ricardoellis.github.io/html-cv/">https://ricardoellis.github.io/html-cv/<a></a> </p>
+<p>See Live Version Here - <a href="https://ricardoellis.github.io/">https://ricardoellis.github.io/<a></a> </p>
 
 Folder Structure (Project Structure),
 

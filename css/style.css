@@ -40,11 +40,11 @@ h2,h3 {
 }
 
 li {
-    list-style: disc;
+    list-style: sqaure;
 }
 
 li li {
-    list-style: square;
+    list-style: disc;
 }
 
 footer {

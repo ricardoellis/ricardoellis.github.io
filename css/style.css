@@ -8,6 +8,7 @@ html {
 
 .profile-photo {
     margin-bottom: -35px;
+    border-radius: 50%;
 }
 
 .heading-info {

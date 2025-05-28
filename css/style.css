@@ -40,10 +40,6 @@ h2,h3 {
 }
 
 li {
-    list-style: square;
-}
-
-li li {
     list-style: disc;
 }
 
@@ -53,8 +49,20 @@ footer {
 
 /* Images */
 
-.social-icons {
+.social-icons1 {
+    height: 32px;
     width: 32px;
-    margin-left: 30px;
-    margin-right: 30px;
+    border-radius: 20px;
+    position: relative;
+    bottom: 90px;
+    right: 45px;
+}
+
+.social-icons2 {
+    height: 32px;
+    width: 32px;
+    border-radius: 20px;
+    position: relative;
+    bottom: 90px;
+    left: 45px;
 }

@@ -6,11 +6,6 @@ html {
     font-weight: 300;
 }
 
-.profile-photo {
-    margin-bottom: -35px;
-    border-radius: 50%;
-}
-
 .heading-info {
     text-align: center;
 }   
@@ -50,21 +45,43 @@ footer {
 
 /* Images */
 
+.profile-photo {
+    margin-bottom: -35px;
+    border-radius: 50%;
+}
+
 .social-icons1 {
     height: 32px;
     width: 32px;
     border-radius: 20px;
-    position: absolute;
-    top:  15%;
-    left: 39%;
 }
 
 .social-icons2 {
     height: 32px;
     width: 32px;
     border-radius: 20px;
-    position: absolute;
-    top: 15%;
-    right: 39%;
 }
 
+.p-section {
+    position: relative;
+}
+
+.icon-1 {
+    position: absolute;
+    left: -16%;
+    top: 10%;
+    bottom: 0;
+    right: 0;
+    margin: auto;
+
+}
+
+.icon-2 {
+    position: absolute;
+    left: 16%;
+    top: 10%;
+    bottom: 0;
+    right: 0;
+    margin: auto;
+
+}

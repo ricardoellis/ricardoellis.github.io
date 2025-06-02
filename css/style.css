@@ -54,7 +54,7 @@ footer {
     height: 32px;
     width: 32px;
     border-radius: 20px;
-    position: absolute;
+    position: fixed;
     top:  15%;
     left: 39%;
 }
@@ -63,7 +63,7 @@ footer {
     height: 32px;
     width: 32px;
     border-radius: 20px;
-    position: absolute;
+    position: fixed;
     top: 15%;
     left: 57%;
 }

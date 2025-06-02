@@ -54,16 +54,17 @@ footer {
     height: 32px;
     width: 32px;
     border-radius: 20px;
-    position: relative;
-    bottom: 90px;
-    right: 45px;
+    position: absolute;
+    top:  15%;
+    left: 36%;
 }
 
 .social-icons2 {
     height: 32px;
     width: 32px;
     border-radius: 20px;
-    position: relative;
-    bottom: 90px;
-    left: 45px;
+    position: absolute;
+    top: 15%;
+    left: 59%;
 }
+

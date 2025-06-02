@@ -73,7 +73,7 @@ footer {
     bottom: 0;
     right: 0;
     margin: auto;
-    z-index: 1;
+    
 
 }
 
@@ -84,6 +84,24 @@ footer {
     bottom: 0;
     right: 0;
     margin: auto;
-    z-index: 1;
+    
 
+}
+
+.table-icons {
+    position: relative;
+    
+}
+
+
+.table2 {
+    position: absolute;
+    right: 25%;
+    top: 50%;
+}
+
+.table1 {
+    position: absolute;
+    left: 25%;
+    top: 50%;
 }

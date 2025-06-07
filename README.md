@@ -1,17 +1,6 @@
-#Ricardo Ellis - Curriculum Vitae website from scratch
+Discover Ricardo Ellis, a Junior Web Developer from Beautiful Barbados!
 
 <p>See Live Version Here - <a href="https://ricardoellis.github.io/">https://ricardoellis.github.io</a></p>
 
-Folder Structure (Project Structure),
-
-HTML Boilerplate,
-HTML Tags,
-HTML Elements,
-
-CSS Style Sheet,
-CSS Elements,
-CSS ID,
-CSS Class,
-
-Custom Font (Google Font)
+Here I get to test my html and css skills covering all that I've learnt so far. Have a look at the full version, it's desktop and mobile friendly! :)
 

@@ -65,7 +65,14 @@ a {
 a:hover, a:focus-visible {
     color: #ff641e;
     text-decoration: underline;
-     outline: 2px solid #ff641e;
+    outline: 2px solid #ff641e;
+    outline-offset: 4px;
+}
+
+.active {
+    color: #ff641e;
+    text-decoration: underline;
+    outline: 2px solid #ff641e;
     outline-offset: 4px;
 }
 

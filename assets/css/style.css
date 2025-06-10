@@ -47,7 +47,7 @@ header {
     text-decoration: underline;
 }
 
-.primary-navigation a:focus-active {
+.primary-navigation a:active {
     outline: 2px solid #ff641e;
     outline-offset: 4px;
 }

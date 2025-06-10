@@ -42,7 +42,7 @@ header {
     text-decoration: none;
 }
 
-.primary-navigation a:hover, .primary-navigation a:focus-visible, {
+.primary-navigation a:hover, .primary-navigation a:focus-visible {
     color: #ff641e;
     text-decoration: underline;
 }

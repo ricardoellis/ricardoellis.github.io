@@ -24,28 +24,11 @@ h2 {
     
 }
 
-.code-define-section {
-    margin-block: 6rem;
-}
-
-.image-section {
-    margin-block: 2rem;
-}
-
 .wrapper {
     max-inline-size: 1000px;
     margin-inline: auto;
 }
 
-.two-column-layout {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    gap: 80px;
-}
-
-.column-2 {
-    margin-block: 5rem;
-}
 .orange-text {
     color: #ff641e;
 } 
@@ -65,18 +48,6 @@ a:hover, a:focus-visible {
 
 ul {
     list-style: square;
-}
-
-.intro-bg-title {
-    color: #ffffff;
-}
-.intro-bg {
-    color: #ffffff;
-    background-image: url('../images/wordpress.png');
-    background-position: center;
-    background-size: cover;
-    padding: 0px 20px;
-    border: #0164f3 5px solid;
 }
 
 footer {
@@ -99,10 +70,6 @@ img {
     width: 64px;
     height: 64px;
     display: inline-block;
-}
-
-.column-2 {
-    margin-block: 5rem;
 }
 
 .padding-area {

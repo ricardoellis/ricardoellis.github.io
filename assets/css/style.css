@@ -36,16 +36,14 @@ header {
     padding: 0;
  }
 
+
 .primary-navigation a {
     color: #1B281B;
     font-weight: 500;
     text-decoration: none;
 }
 
-.primary-navigation a:active {
-    outline: 2px solid #ff641e;
-    outline-offset: 4px;
-}
+
 
 .wrapper {
     max-inline-size: 1000px;
@@ -67,6 +65,8 @@ a {
 a:hover, a:focus-visible {
     color: #ff641e;
     text-decoration: underline;
+     outline: 2px solid #ff641e;
+    outline-offset: 4px;
 }
 
 ul {

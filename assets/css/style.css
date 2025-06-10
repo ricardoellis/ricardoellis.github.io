@@ -42,12 +42,12 @@ header {
     text-decoration: none;
 }
 
-.primary-navigation a:hover, .primary-navigation a:focus-visible {
+.primary-navigation a:hover, .primary-navigation a:focus-visible, {
     color: #ff641e;
     text-decoration: underline;
 }
 
-.primary-navigation a:focus-visible {
+.primary-navigation a:focus-active {
     outline: 2px solid #ff641e;
     outline-offset: 4px;
 }

@@ -57,6 +57,10 @@ header {
     color: #0164f3;
 } 
 
+.text-bg {
+    color: white;
+    background-color: #0164f3;
+}
 a {
     color: #0164f3;
     text-decoration: none;

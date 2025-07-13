@@ -57,13 +57,13 @@ This project requires the following dependencies:
 
 Build ricardoellis.github.io from the source and install dependencies:
 
-1. **Clone the repository:**
+. **Clone the repository:**
 
     ```sh
     ❯ git clone https://github.com/ricardoellis/ricardoellis.github.io
     ```
 
-2. **Navigate to the project directory:**
+. **Navigate to the project directory:**
 
     ```sh
     ❯ cd ricardoellis.github.io

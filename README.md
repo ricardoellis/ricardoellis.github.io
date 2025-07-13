@@ -69,22 +69,6 @@ Build ricardoellis.github.io from the source and install dependencies:
     ❯ cd ricardoellis.github.io
     ```
 
-3. **Install the dependencies:**
-
-echo 'INSERT-INSTALL-COMMAND-HERE'
-
-### Usage
-
-Run the project with:
-
-echo 'INSERT-RUN-COMMAND-HERE'
-
-### Testing
-
-Ricardoellis.github.io uses the {__test_framework__} test framework. Run the test suite with:
-
-echo 'INSERT-TEST-COMMAND-HERE'
-
 ---
 
 <div align="left"><a href="#top">⬆ Return</a></div>
